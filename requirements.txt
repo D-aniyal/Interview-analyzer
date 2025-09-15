@@ -1,6 +1,9 @@
 streamlit
-librosa
-matplotlib
-numpy
 faster-whisper
+librosa
+soundfile
+numpy
+matplotlib
+pandas
 openai
+python-dotenv
